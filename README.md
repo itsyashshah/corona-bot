@@ -16,7 +16,7 @@ Include logo/demo screenshot etc.
 ## Tech/framework used
 <b>Built with</b>
 - [Python](https://www.python.org/)
--[Twilio](https://www.twilio.com/)
+- [Twilio](https://www.twilio.com/)
 
 ## Features
 One can easily keep a track on how the coronavirus is spreading around different cities within a single click, all they need is a whatsapp running on their device, they can also be aware for different types of precautions that can be useful.
