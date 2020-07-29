@@ -23,11 +23,7 @@ People can easily track out the active coronavirus status, on the worlds famous 
 ## How to use?
 1 - save the Whatsapp number **( +1 (415)523-8886 )** in your phone directory. <br />
 2 - Message **join environment-world** first to the number on whatsapp. <br />
-3 - Then say **hello** to your new virtual friend. <br / >
-
-## Contribute
-[contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
+3 - Then say **hello** to your new virtual friend. 
 
 ## License
 MIT © [Yash Shah]()
