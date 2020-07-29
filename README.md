@@ -16,14 +16,14 @@ People can easily track out the active coronavirus status, on the worlds famous 
 - [Twilio](https://www.twilio.com/)
 
 ## Features
-1 - See the live active cases of different countries around the world.
+1 - See the live active cases of different countries around the world.<br />
 2 - Remedies and precaution for the virus to aware the people about the virus.
 
 
 ## How to use?
-1 - save the Whatsapp number ## ( +1 (415)523-8886 ) in your phone directory 
-2 - Message ## join environment-world first to the number on whatsapp
-3 - Then say ## hello to your new virtual friend.
+1 - save the Whatsapp number **( +1 (415)523-8886 )** in your phone directory 
+2 - Message **join environment-world** first to the number on whatsapp
+3 - Then say **hello** to your new virtual friend.
 
 ## Contribute
 [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
