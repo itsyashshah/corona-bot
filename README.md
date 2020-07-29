@@ -8,7 +8,7 @@ People can easily track out the active coronavirus status, on the worlds famous 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/itsyashshah/corona-bot/blob/master/how-it-works.gif)
 
 ## Tech/framework used
 <b>Built with</b>
